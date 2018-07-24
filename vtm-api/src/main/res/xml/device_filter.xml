@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <usb-device
+        product-id="5248"
+        vendor-id="4143" />
+</PreferenceScreen>
